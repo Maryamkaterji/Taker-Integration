@@ -1,0 +1,51 @@
+{
+  "id": "e3c3a58b-1810-4497-a9a6-e3059242ac90",
+  "name": "Taker Integration",
+  "publisher": "IOS",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+     {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "version": "26.0.0.0",
+      "publisher": "LS Retail"
+    },
+    {
+      "id": "bd0603d2-5742-4b21-b02a-a3e6e0f61468",
+      "name": "LS Central Arabic Receipt",
+      "version": "26.0.0.0",
+      "publisher": "LS Retail"
+    },
+    {
+      "id": "2a0547fa-f60f-401d-b1fe-c7c4be8fb230",
+      "name": "LS Central System App",
+      "version": "26.0.0.0",
+      "publisher": "LS Retail"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
